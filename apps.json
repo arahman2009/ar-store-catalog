@@ -1,0 +1,23 @@
+{
+  "store": {
+    "name": "AR Apps",
+    "package": "com.arrahman.store",
+    "versionCode": 2,
+    "versionName": "1.1",
+    "minVersionCode": 0,
+    "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Apps.apk"
+  },
+  "apps": [
+    {
+      "name": "AR Downloader",
+      "package": "com.arrahman.downloader",
+      "desc": "Kisi bhi link se video, audio, photo ya ringtone download karo: YouTube, Instagram, TikTok, Facebook aur bohat si sites. HD aur 4K quality, bina ads, bilkul free.",
+      "versionCode": 3,
+      "versionName": "1.2",
+      "minVersionCode": 0,
+      "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Downloader.apk",
+      "category": "Tools",
+      "whatsNew": "Options pehle, phir download. Tez aur stable."
+    }
+  ]
+}
