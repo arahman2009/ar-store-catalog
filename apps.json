@@ -5,7 +5,8 @@
     "versionCode": 2,
     "versionName": "1.1",
     "minVersionCode": 0,
-    "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Apps.apk"
+    "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Apps.1.apk",
+    "sha256": "8195ba8dc3c129aa125686414be94212e39408c204e04377475797640b824b90"
   },
   "apps": [
     {
