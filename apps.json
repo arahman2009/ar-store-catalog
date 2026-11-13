@@ -17,7 +17,9 @@
       "minVersionCode": 0,
       "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Downloader.apk",
       "category": "Tools",
-      "whatsNew": "Options pehle, phir download. Tez aur stable."
+      "whatsNew": "Options pehle, phir download. Tez aur stable.",
+      "sha256": "97b9204866615a7560050ce665a56f459200d30436b71b2d85065e7d0956c748",
+      "size": "76.9"
     }
   ]
 }
