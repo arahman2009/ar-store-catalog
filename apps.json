@@ -21,7 +21,8 @@
       "whatsNew": "Options pehle, phir download. Tez aur stable.",
       "sha256": "97b9204866615a7560050ce665a56f459200d30436b71b2d85065e7d0956c748",
       "size": "76.9",
-      "featured": true
+      "featured": true,
+      "icon": "https://raw.githubusercontent.com/arahman2009/ar-store-catalog/main/icons/ar-downloader.jpg"
     }
   ]
 }
