@@ -5,8 +5,8 @@
     "versionCode": 2,
     "versionName": "1.1",
     "minVersionCode": 0,
-    "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Apps.1.apk",
-    "sha256": "8195ba8dc3c129aa125686414be94212e39408c204e04377475797640b824b90"
+    "apk": "https://github.com/arahman2009/ar-store-catalog/releases/download/apps/AR-Apps.3.apk",
+    "sha256": "6d8cdd57401b831b6568de95d168730304212b3bd4e8c014c6b33b0eeb1bc972"
   },
   "apps": [
     {
@@ -20,7 +20,8 @@
       "category": "Tools",
       "whatsNew": "Options pehle, phir download. Tez aur stable.",
       "sha256": "97b9204866615a7560050ce665a56f459200d30436b71b2d85065e7d0956c748",
-      "size": "76.9"
+      "size": "76.9",
+      "featured": true
     }
   ]
 }
